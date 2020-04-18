@@ -200,3 +200,4 @@ module/emscripten-static/
 web/
 
 desktop.ini
+.DS_Store

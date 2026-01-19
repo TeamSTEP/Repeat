@@ -3288,7 +3288,7 @@ label at_grandpas_house:
     play music "bgm/smooth3.mp3"
     play bgs "bgs/street.mp3"
     centered"방과후"
-    scene bg outside_road at Zoom((1280,720),(0,0,1280,720),(0,224,711,399),1.0) with moveup:
+    scene bg outside_road at Zoom((1280,720),(0,0,1280,720),(0,224,711,399),1.0) with moveup
     "나랑 리사 보우만은 같이 대화를 하며 윌리의 집으로 향했다."
     "얘가 —어떤 의미에선— 남자 문제로 고민하는 것을 배려해 호칭은 성으로만 부른다."
     "윌리한테 사전 연락을 취하고 싶었지만, 걔 폰이 내 수중에 있으므로 그건 힘들어 그냥 서프라이즈로 가기로 했다."
